@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T08:02:19.735Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ohn_bYdwV5r_IprO04NU" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-29T08:05:46.672Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/112.0" etag="coINQbr3Ix35Zhj02qjs" version="21.2.3" type="github" pages="2">
   <diagram name="Страница 1" id="WbEVajOhDz6gvraBgW7G">
     <mxGraphModel dx="1018" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNRnUHWgEc6jLErnchyZ-74" value="Период урока (TimeStamp)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;" vertex="1" parent="dNRnUHWgEc6jLErnchyZ-72">
+        <mxCell id="dNRnUHWgEc6jLErnchyZ-74" value="Время (TimeStamp)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;" vertex="1" parent="dNRnUHWgEc6jLErnchyZ-72">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
